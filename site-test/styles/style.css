@@ -1,0 +1,15 @@
+
+/*couleur aux paragraphe, titre pricipal, liste*/
+p,li,h1 {
+  color: red;
+} 
+
+/*Couleur bleu à id = titre */
+#titre {
+  color: blue;
+}
+
+/*couleur grise sur le lien quand on passe la souris*/
+a:hover {
+	color : grey
+}
